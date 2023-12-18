@@ -1,1 +1,10 @@
 # CS250_RetrospectiveSprintReview_Project
+
+    How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+We use user needs through interviews, surveys, and feedback loops to help create user stories. With user stories, we can identify features and elements of the program that users or stakeholders want implemented into the final product. Once the user stories are identified, we can arrange and sort them in the backlog according to difficulty and priority level. This lays out an efficient plan of action to implement and incorporate the required elements and features into the final program.
+
+    How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+When approaching the development of a program, there are many aspects from this class that I wish to incorporate into my future work, such as iterative development, agile methodologies, and test-driven development. Overall, I want to focus on a customer-centric approach, using user stories to decide on features and receive feedback on possible enhancements to ensure the final product meets the user's and stakeholders' expectations. I would also focus on building software incrementally with frequent working versions of the feature or program, allowing for regular feedback and adjustments. 
+
+    What does it mean to be a good team member in software development?
+Being a good team member in a software development team requires many important aspects. Communication and collaboration amongst the team is crucial in ensuring everyone knows the game plan, what's to be expected, and the end goals. Flexibility and Continuous learning are also important aspects, ensuring the team is ready for possible changes to plans and an optimism for learning new tricks and strategies for future sprints or projects. Lastly, having a positive attitude with your team, and in general, is important to create a friendly work environment that fosters new ideas and suggestions for problems.
